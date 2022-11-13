@@ -18,15 +18,15 @@
 I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> <b>currently:</b> 
 
 
- :telescope: working as a Software Engineer contributing to frontend and backend for building web applications at a startup.
+ - :telescope: working as a Software Engineer contributing to frontend and backend for building web applications at a startup.
 
- :woman_technologist: catching up on anime, learning game development using Godot, and scrolling (a little :sweat_smile:) on TikTok in my free time. 
+ - :woman_technologist: catching up on anime, learning game development using Godot, and scrolling (a little :sweat_smile:) on TikTok in my free time. 
  
  
- :seedling:  learning new skills and growing as a developer everyday.
+ - :seedling:  learning new skills and growing as a developer everyday.
  
  
- :mailbox:Reachable at: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jadaclopton/)
+ - :mailbox:Reachable at: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jadaclopton/)
 <div align="right" >
   <img src="https://media.giphy.com/media/KcMpL8GebR6ygaSRwx/giphy.gif" width="15%" /> <img src="https://media.giphy.com/media/FvTiU4YpDE4fs5NulS/giphy.gif" width="15%" />
 </div>
