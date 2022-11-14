@@ -51,7 +51,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
   
 </div>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jadaluiz&layout=compact&theme=vue-buefy)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jadaluiz&layout=compact&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!-- ### :fire: My Stats :
