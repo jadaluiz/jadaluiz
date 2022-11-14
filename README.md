@@ -4,12 +4,13 @@
 **jadaluiz/jadaluiz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
 <div align="center">
-  <a href="[url](https://www.linkedin.com/in/jadaclopton/)"><img src="https://media.giphy.com/media/1GEATImIxEXVR79Dhk/giphy.gif" width="500" height="200"/> </a>
+  [<img src="https://media.giphy.com/media/1GEATImIxEXVR79Dhk/giphy.gif" width="500" height="200"/>](https://www.linkedin.com/in/jadaclopton/)
   <h1>
   welcome
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 </div>
+
 
 
 
