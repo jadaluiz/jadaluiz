@@ -37,7 +37,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 ---
 
-<img width="50%" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jadaluiz&layout=compact&theme=transparent" />
+<img width="45%" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jadaluiz&layout=compact&theme=transparent" />
 
 ### :hammer_and_wrench: Languages and Tools :
 
